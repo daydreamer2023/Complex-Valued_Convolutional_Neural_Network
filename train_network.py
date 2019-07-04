@@ -12,7 +12,7 @@ import pickle
 import datetime
 from classify_whole_img import *
 from visualize_filter2 import *
-from mnist import load_mnist
+
 
 def train_network_1():
     start = datetime.datetime.today()
